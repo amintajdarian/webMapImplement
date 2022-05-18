@@ -1,4 +1,3 @@
-# zoomila_pwa
 
 A new Flutter project.
 
